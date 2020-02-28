@@ -9,7 +9,7 @@
     "remote":      "github",
     "repository":  "shoukolate/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "kernel.lnx.4.4.r38-rel-wifi-wireguard"
+    "branch":      "kernel.lnx.4.4.r38-rel-wifi"
   },
   {
     "remote":      "github",

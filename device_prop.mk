@@ -80,6 +80,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.eyecare.brightness.level=8 \
     ro.hist.brightness.threshold=5 \
     vidc.enc.dcvs.extra-buff-count=2 \
+    vendor.camera.aux.packagelist=com.android.camera,com.Wide.GCam,com.Tele.GCam,org.lineageos.snap
 
 # Dual SIM
 PRODUCT_PROPERTY_OVERRIDES += \
